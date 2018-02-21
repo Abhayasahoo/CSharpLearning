@@ -1,0 +1,38 @@
+First Time
+----------
+
+First Created a repositoy in Github after logging into Github using the reachabhaya account. ConsoleApplication_Abhaya with solution and project was already there under C:\Users\axs5965\Desktop\DevProjects\C# Learning. Created documents folder with documentation on key C# concepts and added the documentation file Basics of C#.docx. Also added a Readme.md file.
+
+Used command line to get to the Directory C:\Users\axs5965\Desktop\DevProjects\C# Learning. Issue the below:
+git init (it creates a .git folder).
+git add . 
+ (The above added the solution and all files and the documentation docs to the local git)
+git commit -m "first commit"      (commits to local git but not yet uploaded to GIT WEB)
+git remote add origin https://github.com/Abhayasahoo/CSharpLearning.git
+
+           (maps the local GIT to GIT Web)
+git push -u origin master
+           (pushes the local files to Git Web)
+
+Check the files in Git web to make sure everything is transferred.
+
+
+Subsequent times
+-----------------
+
+Go to the local folder which has code and contents to be pushed to the Git repository
+
+e.g. cd "C:\users\axs5965\desktop\devprojects"
+     cd "C# Learning"
+
+
+Make a change to a file or add new files
+
+git status
+
+git add .
+
+git commit -m "message"
+
+git push
+
