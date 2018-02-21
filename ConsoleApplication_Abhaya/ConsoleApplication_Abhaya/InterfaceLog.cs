@@ -43,7 +43,7 @@ namespace ConsoleApplication_Abhaya
         }
     class InterfaceApp
     {
-      public static void Main(string[] args)
+        public static void Main_Bkp(string[] args)
         {
             Whale whale = new Whale();
             Console.WriteLine("And Now Some More Mammals");
