@@ -1,0 +1,6 @@
+C:\Users\axs5965\Desktop\DevProjects\C# Learning\ConsoleApplication_Abhaya\ConsoleApplication_Abhaya\bin\Debug\ConsoleApplication_Abhaya.exe.config
+C:\Users\axs5965\Desktop\DevProjects\C# Learning\ConsoleApplication_Abhaya\ConsoleApplication_Abhaya\bin\Debug\ConsoleApplication_Abhaya.exe
+C:\Users\axs5965\Desktop\DevProjects\C# Learning\ConsoleApplication_Abhaya\ConsoleApplication_Abhaya\bin\Debug\ConsoleApplication_Abhaya.pdb
+C:\Users\axs5965\Desktop\DevProjects\C# Learning\ConsoleApplication_Abhaya\ConsoleApplication_Abhaya\obj\Debug\ConsoleApplication_Abhaya.csprojResolveAssemblyReference.cache
+C:\Users\axs5965\Desktop\DevProjects\C# Learning\ConsoleApplication_Abhaya\ConsoleApplication_Abhaya\obj\Debug\ConsoleApplication_Abhaya.exe
+C:\Users\axs5965\Desktop\DevProjects\C# Learning\ConsoleApplication_Abhaya\ConsoleApplication_Abhaya\obj\Debug\ConsoleApplication_Abhaya.pdb
