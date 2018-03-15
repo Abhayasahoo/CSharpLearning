@@ -8,7 +8,7 @@ using System;
 
 public class Program
 {
-    public static void Main()
+    public static void Main_operator()
     {
         string message1 = "Hello";
 

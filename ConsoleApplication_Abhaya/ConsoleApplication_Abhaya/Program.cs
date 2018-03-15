@@ -13,10 +13,20 @@ namespace CSharpProjects
     /// </summary>
     public class Program
     {
-        public static void abc()
+        public static void Main_Constant()
         {
-         ///   ILog Log = new ConsoleLog();
-            ///Console.WriteLine(msgToPrint);
+
+            const double pi = 3.14159;
+
+            // constant declaration 
+            double r;
+            Console.WriteLine("Enter Radius: ");
+            r = Convert.ToDouble(Console.ReadLine());
+
+            double areaCircle = pi * r * r;
+            Console.WriteLine("Radius: {0}, Area: {1}", r, areaCircle);
+            Console.ReadLine();
+
         }
 
     }

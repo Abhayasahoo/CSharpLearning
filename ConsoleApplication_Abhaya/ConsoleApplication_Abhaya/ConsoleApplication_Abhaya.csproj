@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MethodRecursion.cs" />
+    <Compile Include="EncapsulationPrivate.cs" />
+    <Compile Include="EncapsulationInternal.cs" />
+    <Compile Include="EncapsulationPublic.cs" />
     <Compile Include="Operators.cs" />
     <Compile Include="InterfaceLog.cs" />
     <Compile Include="Program.cs" />
@@ -50,6 +54,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Advanced\" />
+    <Folder Include="Basic\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
