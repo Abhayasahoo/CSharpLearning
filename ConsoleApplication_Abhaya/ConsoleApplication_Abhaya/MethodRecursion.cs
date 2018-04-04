@@ -21,7 +21,7 @@ namespace CalculatorApplication
             }
         }
 
-        static void Main(string[] args)
+        static void Main_Recursion(string[] args)
         {
             NumberManipulator n = new NumberManipulator();
             //calling the factorial method {0}", n.factorial(6));
