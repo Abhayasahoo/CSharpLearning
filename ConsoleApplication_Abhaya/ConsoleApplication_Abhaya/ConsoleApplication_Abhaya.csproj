@@ -43,18 +43,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MethodRecursion.cs" />
-    <Compile Include="EncapsulationPrivate.cs" />
-    <Compile Include="EncapsulationInternal.cs" />
-    <Compile Include="EncapsulationPublic.cs" />
-    <Compile Include="Array.cs" />
-    <Compile Include="Nullables.cs" />
-    <Compile Include="Operators.cs" />
+    <Compile Include="ClasswithConstructor_2.cs" />
+    <Compile Include="Basic\Enum - Copy.cs" />
+    <Compile Include="Basic\MethodRecursion.cs" />
+    <Compile Include="OOPS_Concepts\EncapsulationPrivate.cs" />
+    <Compile Include="OOPS_Concepts\EncapsulationInternal.cs" />
+    <Compile Include="OOPS_Concepts\EncapsulationPublic.cs" />
+    <Compile Include="Basic\Array.cs" />
+    <Compile Include="Basic\Nullables.cs" />
+    <Compile Include="Basic\Operators.cs" />
     <Compile Include="InterfaceLog.cs" />
-    <Compile Include="Program - Copy.cs" />
-    <Compile Include="Struct.cs" />
-    <Compile Include="String.cs" />
-    <Compile Include="Enum.cs" />
+    <Compile Include="Basic\Program - Copy.cs" />
+    <Compile Include="OOPS_Concepts\Polymorphism_1.cs" />
+    <Compile Include="OOPS_Concepts\VirtualMethod.cs" />
+    <Compile Include="OOPS_Concepts\Inheritance.cs" />
+    <Compile Include="Basic\StructComparison.cs" />
+    <Compile Include="Basic\StructInstantiation.cs" />
+    <Compile Include="Basic\Struct.cs" />
+    <Compile Include="Basic\String.cs" />
+    <Compile Include="ClasswithConstructor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -62,7 +69,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Advanced\" />
-    <Folder Include="Basic\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

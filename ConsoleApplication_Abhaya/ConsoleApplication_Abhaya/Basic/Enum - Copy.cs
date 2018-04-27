@@ -15,7 +15,7 @@ using System.Threading.Tasks;
         {
             enum Days { Sun, Mon, tue, Wed, thu, Fri, Sat };
 
-            static void Main(string[] args)
+            static void Main_enum(string[] args)
             {
                 int WeekdayStart = (int)Days.Mon;
                 int WeekdayEnd = (int)Days.Fri;
