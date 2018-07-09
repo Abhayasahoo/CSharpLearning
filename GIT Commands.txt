@@ -37,4 +37,3 @@ git commit -m "message"
 git push
 
 
-http://www.ala.org/news/press-releases/2018/02/larry-dane-brimner-wins-2018-sibert-medal
